@@ -1,4 +1,5 @@
 import React from "react";
+import ExpenseFilter from "./ExpenseFilter";
 
 interface Expenses {
   id: number;
